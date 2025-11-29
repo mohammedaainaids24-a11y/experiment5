@@ -1,11 +1,6 @@
 Line 1:original content
-<<<<<<< HEAD
-=======
-Line 2:Feature A
 Line 2:Feature A
 Line :Feature B
-<<<<<<< HEAD
->>>>>>> 67e139d (add Feature B)
-=======
 Line 4 :Feature c
->>>>>>> 48477cb (add Feature C)
+Line 5 :Feature D
+
