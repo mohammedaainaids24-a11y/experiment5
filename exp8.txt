@@ -1,1 +1,7 @@
 Line 1:original content
+<<<<<<< HEAD
+=======
+Line 2:Feature A
+Line 2:Feature A
+Line :Feature B
+>>>>>>> 67e139d (add Feature B)
